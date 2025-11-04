@@ -15,3 +15,21 @@ E:\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\refint\ProjectShared.dl
 E:\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\ProjectShared.pdb
 E:\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\ProjectShared.genruntimeconfig.cache
 E:\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\ref\ProjectShared.dll
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\bin\Debug\net8.0\ProjectShared.deps.json
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\bin\Debug\net8.0\ProjectShared.runtimeconfig.json
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\bin\Debug\net8.0\ProjectShared.dll
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\bin\Debug\net8.0\ProjectShared.pdb
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\bin\Debug\net8.0\PracticeModel.dll
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\bin\Debug\net8.0\PracticeModel.pdb
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\ProjectShared.csproj.AssemblyReference.cache
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\ProjectShared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\ProjectShared.AssemblyInfoInputs.cache
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\ProjectShared.AssemblyInfo.cs
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\ProjectShared.csproj.CoreCompileInputs.cache
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\ProjectShared.sourcelink.json
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\ProjectS.42D7FA4A.Up2Date
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\ProjectShared.dll
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\refint\ProjectShared.dll
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\ProjectShared.pdb
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\ProjectShared.genruntimeconfig.cache
+D:\Pharmacy Management System\Practice .Net\Practice\ProjectShared\obj\Debug\net8.0\ref\ProjectShared.dll

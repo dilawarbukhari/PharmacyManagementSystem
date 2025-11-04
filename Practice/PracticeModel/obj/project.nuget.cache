@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gz3F88QCiemlgUDDXtsVGS3cvIWzHYF346hpQionaETPoBaaEsMY9BVkWKu2pQSvQVGw3F6U+YkJkQe/opSy6A==",
+  "dgSpecHash": "w8EXHV5jYlo=",
   "success": true,
-  "projectFilePath": "E:\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj",
+  "projectFilePath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\legend\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\legend\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

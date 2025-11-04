@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Practice .Net\\Practice\\Practice\\Practice.csproj": {}
+    "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\Practice.csproj": {}
   },
   "projects": {
-    "E:\\Practice .Net\\Practice\\PracticeDomain\\PracticeDomain.csproj": {
+    "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\PracticeDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Practice .Net\\Practice\\PracticeDomain\\PracticeDomain.csproj",
+        "projectUniqueName": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\PracticeDomain.csproj",
         "projectName": "PracticeDomain",
-        "projectPath": "E:\\Practice .Net\\Practice\\PracticeDomain\\PracticeDomain.csproj",
+        "projectPath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\PracticeDomain.csproj",
         "packagesPath": "C:\\Users\\legend\\.nuget\\packages\\",
-        "outputPath": "E:\\Practice .Net\\Practice\\PracticeDomain\\obj\\",
+        "outputPath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\legend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj": {
-                "projectPath": "E:\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj"
+              "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj": {
+                "projectPath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj"
               },
-              "E:\\Practice .Net\\Practice\\ProjectShared\\ProjectShared.csproj": {
-                "projectPath": "E:\\Practice .Net\\Practice\\ProjectShared\\ProjectShared.csproj"
+              "D:\\Pharmacy Management System\\Practice .Net\\Practice\\ProjectShared\\ProjectShared.csproj": {
+                "projectPath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\ProjectShared\\ProjectShared.csproj"
               }
             }
           }
@@ -41,7 +45,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -86,21 +96,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj": {
+    "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj",
+        "projectUniqueName": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj",
         "projectName": "PracticeModel",
-        "projectPath": "E:\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj",
+        "projectPath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj",
         "packagesPath": "C:\\Users\\legend\\.nuget\\packages\\",
-        "outputPath": "E:\\Practice .Net\\Practice\\PracticeModel\\obj\\",
+        "outputPath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\legend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -120,7 +134,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -165,21 +185,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Practice .Net\\Practice\\Practice\\Practice.csproj": {
+    "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Practice .Net\\Practice\\Practice\\Practice.csproj",
+        "projectUniqueName": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\Practice.csproj",
         "projectName": "Practice",
-        "projectPath": "E:\\Practice .Net\\Practice\\Practice\\Practice.csproj",
+        "projectPath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\Practice.csproj",
         "packagesPath": "C:\\Users\\legend\\.nuget\\packages\\",
-        "outputPath": "E:\\Practice .Net\\Practice\\Practice\\obj\\",
+        "outputPath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\legend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -193,11 +217,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Practice .Net\\Practice\\PracticeDomain\\PracticeDomain.csproj": {
-                "projectPath": "E:\\Practice .Net\\Practice\\PracticeDomain\\PracticeDomain.csproj"
+              "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\PracticeDomain.csproj": {
+                "projectPath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\PracticeDomain.csproj"
               },
-              "E:\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj": {
-                "projectPath": "E:\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj"
+              "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj": {
+                "projectPath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj"
               }
             }
           }
@@ -206,7 +230,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -272,21 +302,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Practice .Net\\Practice\\ProjectShared\\ProjectShared.csproj": {
+    "D:\\Pharmacy Management System\\Practice .Net\\Practice\\ProjectShared\\ProjectShared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Practice .Net\\Practice\\ProjectShared\\ProjectShared.csproj",
+        "projectUniqueName": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\ProjectShared\\ProjectShared.csproj",
         "projectName": "ProjectShared",
-        "projectPath": "E:\\Practice .Net\\Practice\\ProjectShared\\ProjectShared.csproj",
+        "projectPath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\ProjectShared\\ProjectShared.csproj",
         "packagesPath": "C:\\Users\\legend\\.nuget\\packages\\",
-        "outputPath": "E:\\Practice .Net\\Practice\\ProjectShared\\obj\\",
+        "outputPath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\ProjectShared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\legend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -300,8 +334,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj": {
-                "projectPath": "E:\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj"
+              "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj": {
+                "projectPath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj"
               }
             }
           }
@@ -310,7 +344,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -361,7 +401,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

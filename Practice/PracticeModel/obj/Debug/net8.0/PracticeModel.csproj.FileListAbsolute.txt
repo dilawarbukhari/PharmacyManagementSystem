@@ -12,3 +12,18 @@ E:\Practice .Net\Practice\PracticeModel\obj\Debug\net8.0\refint\PracticeModel.dl
 E:\Practice .Net\Practice\PracticeModel\obj\Debug\net8.0\PracticeModel.pdb
 E:\Practice .Net\Practice\PracticeModel\obj\Debug\net8.0\PracticeModel.genruntimeconfig.cache
 E:\Practice .Net\Practice\PracticeModel\obj\Debug\net8.0\ref\PracticeModel.dll
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeModel\bin\Debug\net8.0\PracticeModel.deps.json
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeModel\bin\Debug\net8.0\PracticeModel.runtimeconfig.json
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeModel\bin\Debug\net8.0\PracticeModel.dll
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeModel\bin\Debug\net8.0\PracticeModel.pdb
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeModel\obj\Debug\net8.0\PracticeModel.csproj.AssemblyReference.cache
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeModel\obj\Debug\net8.0\PracticeModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeModel\obj\Debug\net8.0\PracticeModel.AssemblyInfoInputs.cache
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeModel\obj\Debug\net8.0\PracticeModel.AssemblyInfo.cs
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeModel\obj\Debug\net8.0\PracticeModel.csproj.CoreCompileInputs.cache
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeModel\obj\Debug\net8.0\PracticeModel.sourcelink.json
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeModel\obj\Debug\net8.0\PracticeModel.dll
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeModel\obj\Debug\net8.0\refint\PracticeModel.dll
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeModel\obj\Debug\net8.0\PracticeModel.pdb
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeModel\obj\Debug\net8.0\PracticeModel.genruntimeconfig.cache
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeModel\obj\Debug\net8.0\ref\PracticeModel.dll

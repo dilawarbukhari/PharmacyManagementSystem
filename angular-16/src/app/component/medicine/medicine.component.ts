@@ -71,10 +71,8 @@ SetValidation(){
       this._service.GetAllMedicine(this.medicineResponse).subscribe((response)=>{
         this.FilteredResponse=response.data;
         this.MedicineResponseList=response.data;
-    
       })
     }
-    
     AddMedicine(){
       debugger
       if(this.medicineFormGroup.valid){
@@ -83,8 +81,7 @@ SetValidation(){
           this.getMedicineDetails();
           $('#medicineModal').modal('hide');
        },
-         (error)=>{
-          
+         (error)=>{        
              this._commonService.showToast(" Error Try Again", '', 'error')     
          })
       }

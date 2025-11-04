@@ -1181,7 +1181,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.2"
         },
         "runtime": {
-          "PracticeModel.dll": {}
+          "PracticeModel.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "ProjectShared/1.0.0": {
@@ -1193,7 +1196,10 @@
           "PracticeModel": "1.0.0"
         },
         "runtime": {
-          "ProjectShared.dll": {}
+          "ProjectShared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

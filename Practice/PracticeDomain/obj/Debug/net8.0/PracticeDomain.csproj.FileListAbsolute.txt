@@ -17,3 +17,23 @@ E:\Practice .Net\Practice\PracticeDomain\obj\Debug\net8.0\PracticeDomain.genrunt
 E:\Practice .Net\Practice\PracticeDomain\obj\Debug\net8.0\ref\PracticeDomain.dll
 E:\Practice .Net\Practice\PracticeDomain\bin\Debug\net8.0\ProjectShared.dll
 E:\Practice .Net\Practice\PracticeDomain\bin\Debug\net8.0\ProjectShared.pdb
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\bin\Debug\net8.0\PracticeDomain.deps.json
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\bin\Debug\net8.0\PracticeDomain.runtimeconfig.json
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\bin\Debug\net8.0\PracticeDomain.dll
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\bin\Debug\net8.0\PracticeDomain.pdb
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\bin\Debug\net8.0\PracticeModel.dll
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\bin\Debug\net8.0\ProjectShared.dll
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\bin\Debug\net8.0\PracticeModel.pdb
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\bin\Debug\net8.0\ProjectShared.pdb
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\obj\Debug\net8.0\PracticeDomain.csproj.AssemblyReference.cache
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\obj\Debug\net8.0\PracticeDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\obj\Debug\net8.0\PracticeDomain.AssemblyInfoInputs.cache
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\obj\Debug\net8.0\PracticeDomain.AssemblyInfo.cs
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\obj\Debug\net8.0\PracticeDomain.csproj.CoreCompileInputs.cache
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\obj\Debug\net8.0\PracticeDomain.sourcelink.json
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\obj\Debug\net8.0\Practice.146B6B80.Up2Date
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\obj\Debug\net8.0\PracticeDomain.dll
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\obj\Debug\net8.0\refint\PracticeDomain.dll
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\obj\Debug\net8.0\PracticeDomain.pdb
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\obj\Debug\net8.0\PracticeDomain.genruntimeconfig.cache
+D:\Pharmacy Management System\Practice .Net\Practice\PracticeDomain\obj\Debug\net8.0\ref\PracticeDomain.dll

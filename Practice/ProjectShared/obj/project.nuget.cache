@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oGrt89qlYDen9iiOwysLlpLiFs0YFDEiXww58JkS1cO4CGLpDFdariRilBG+nixIhB+BeejNviQkgOqtw/0pyw==",
+  "dgSpecHash": "PaXZKPmD404=",
   "success": true,
-  "projectFilePath": "E:\\Practice .Net\\Practice\\ProjectShared\\ProjectShared.csproj",
+  "projectFilePath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\ProjectShared\\ProjectShared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\legend\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\legend\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,0 +1,625 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB63DD21-3E03-458E-91E3-4E168E2A47D8}|ProjectShared\\ProjectShared.csproj|d:\\pharmacy management system\\practice .net\\practice\\projectshared\\sp\\sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB63DD21-3E03-458E-91E3-4E168E2A47D8}|ProjectShared\\ProjectShared.csproj|solutionrelative:projectshared\\sp\\sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicedomain\\repository\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|solutionrelative:practicedomain\\repository\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FE9EAE-93F3-438D-A092-D8A2E5C64074}|Practice\\Practice.csproj|d:\\pharmacy management system\\practice .net\\practice\\practice\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FE9EAE-93F3-438D-A092-D8A2E5C64074}|Practice\\Practice.csproj|solutionrelative:practice\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FE9EAE-93F3-438D-A092-D8A2E5C64074}|Practice\\Practice.csproj|d:\\pharmacy management system\\practice .net\\practice\\practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81FE9EAE-93F3-438D-A092-D8A2E5C64074}|Practice\\Practice.csproj|solutionrelative:practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicedomain\\dtos\\medicine\\medicinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|solutionrelative:practicedomain\\dtos\\medicine\\medicinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicemodel\\dbcontext\\basecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|solutionrelative:practicemodel\\dbcontext\\basecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicedomain\\dtos\\response\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|solutionrelative:practicedomain\\dtos\\response\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB63DD21-3E03-458E-91E3-4E168E2A47D8}|ProjectShared\\ProjectShared.csproj|d:\\pharmacy management system\\practice .net\\practice\\projectshared\\projectshared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB63DD21-3E03-458E-91E3-4E168E2A47D8}|ProjectShared\\ProjectShared.csproj|solutionrelative:projectshared\\projectshared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicedomain\\repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|solutionrelative:practicedomain\\repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\Migrations\\20251101063414_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PracticeModel\\Migrations\\20251101063414_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\Migrations\\20251101063310_Intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PracticeModel\\Migrations\\20251101063310_Intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicemodel\\seedingmodels\\permissionseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|solutionrelative:practicemodel\\seedingmodels\\permissionseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FE9EAE-93F3-438D-A092-D8A2E5C64074}|Practice\\Practice.csproj|d:\\pharmacy management system\\practice .net\\practice\\practice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81FE9EAE-93F3-438D-A092-D8A2E5C64074}|Practice\\Practice.csproj|solutionrelative:practice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FE9EAE-93F3-438D-A092-D8A2E5C64074}|Practice\\Practice.csproj|d:\\pharmacy management system\\practice .net\\practice\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FE9EAE-93F3-438D-A092-D8A2E5C64074}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicemodel\\seedingmodels\\seedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|solutionrelative:practicemodel\\seedingmodels\\seedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicemodel\\datamodel\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|solutionrelative:practicemodel\\datamodel\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB63DD21-3E03-458E-91E3-4E168E2A47D8}|ProjectShared\\ProjectShared.csproj|d:\\pharmacy management system\\practice .net\\practice\\projectshared\\dapper\\dapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB63DD21-3E03-458E-91E3-4E168E2A47D8}|ProjectShared\\ProjectShared.csproj|solutionrelative:projectshared\\dapper\\dapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicemodel\\datamodel\\medicines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|solutionrelative:practicemodel\\datamodel\\medicines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicedomain\\irepository\\imedicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|solutionrelative:practicedomain\\irepository\\imedicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicemodel\\practicemodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|solutionrelative:practicemodel\\practicemodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FE9EAE-93F3-438D-A092-D8A2E5C64074}|Practice\\Practice.csproj|d:\\pharmacy management system\\practice .net\\practice\\practice\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FE9EAE-93F3-438D-A092-D8A2E5C64074}|Practice\\Practice.csproj|solutionrelative:practice\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicedomain\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|solutionrelative:practicedomain\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicedomain\\irepository\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|solutionrelative:practicedomain\\irepository\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicedomain\\dtos\\supplier\\supplierrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|solutionrelative:practicedomain\\dtos\\supplier\\supplierrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicemodel\\datamodel\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|solutionrelative:practicemodel\\datamodel\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicedomain\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|solutionrelative:practicedomain\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicemodel\\datamodel\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|solutionrelative:practicemodel\\datamodel\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicemodel\\baseentity\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|solutionrelative:practicemodel\\baseentity\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicemodel\\models\\authenticationmodel\\authenticationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|solutionrelative:practicemodel\\models\\authenticationmodel\\authenticationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FE9EAE-93F3-438D-A092-D8A2E5C64074}|Practice\\Practice.csproj|d:\\pharmacy management system\\practice .net\\practice\\practice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FE9EAE-93F3-438D-A092-D8A2E5C64074}|Practice\\Practice.csproj|solutionrelative:practice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicemodel\\seedingmodels\\seedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|solutionrelative:practicemodel\\seedingmodels\\seedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicedomain\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|solutionrelative:practicedomain\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicedomain\\dtos\\userdto\\authenticationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|solutionrelative:practicedomain\\dtos\\userdto\\authenticationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicedomain\\dtos\\jwt\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|solutionrelative:practicedomain\\dtos\\jwt\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicedomain\\practicedomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9871A66-4CAD-4292-B4B8-1277241580EF}|PracticeDomain\\PracticeDomain.csproj|solutionrelative:practicedomain\\practicedomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|d:\\pharmacy management system\\practice .net\\practice\\practicemodel\\migrations\\20251101063813_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54A50DB-D4C4-472E-8DCB-949683806FC2}|PracticeModel\\PracticeModel.csproj|solutionrelative:practicemodel\\migrations\\20251101063813_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\Repository\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "PracticeDomain\\Repository\\SupplierRepository.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\Repository\\SupplierRepository.cs",
+              "RelativeToolTip": "PracticeDomain\\Repository\\SupplierRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAEwBYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicineRepository.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\Repository\\MedicineRepository.cs",
+              "RelativeDocumentMoniker": "PracticeDomain\\Repository\\MedicineRepository.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\Repository\\MedicineRepository.cs",
+              "RelativeToolTip": "PracticeDomain\\Repository\\MedicineRepository.cs",
+              "ViewState": "AgIAAFIAAABgZmZmZiYlwGsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectShared.csproj",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\ProjectShared\\ProjectShared.csproj",
+              "RelativeDocumentMoniker": "ProjectShared\\ProjectShared.csproj",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\ProjectShared\\ProjectShared.csproj",
+              "RelativeToolTip": "ProjectShared\\ProjectShared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-01T08:20:22.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicineRequest.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\DTOs\\Medicine\\MedicineRequest.cs",
+              "RelativeDocumentMoniker": "PracticeDomain\\DTOs\\Medicine\\MedicineRequest.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\DTOs\\Medicine\\MedicineRequest.cs",
+              "RelativeToolTip": "PracticeDomain\\DTOs\\Medicine\\MedicineRequest.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SP.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\ProjectShared\\Sp\\SP.cs",
+              "RelativeDocumentMoniker": "ProjectShared\\Sp\\SP.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\ProjectShared\\Sp\\SP.cs",
+              "RelativeToolTip": "ProjectShared\\Sp\\SP.cs",
+              "ViewState": "AgIAACgAAAAAzMzMzIwjwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:21:37.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\appsettings.json",
+              "RelativeDocumentMoniker": "Practice\\appsettings.json",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\appsettings.json",
+              "RelativeToolTip": "Practice\\appsettings.json",
+              "ViewState": "AgIAAAQAAAAABTMzMzPrvxEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-01T06:26:44.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DapperService.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\ProjectShared\\Dapper\\DapperService.cs",
+              "RelativeDocumentMoniker": "ProjectShared\\Dapper\\DapperService.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\ProjectShared\\Dapper\\DapperService.cs",
+              "RelativeToolTip": "ProjectShared\\Dapper\\DapperService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAawBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicineController.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\Controllers\\MedicineController.cs",
+              "RelativeDocumentMoniker": "Practice\\Controllers\\MedicineController.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\Controllers\\MedicineController.cs",
+              "RelativeToolTip": "Practice\\Controllers\\MedicineController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseContext.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\DBcontext\\BaseContext.cs",
+              "RelativeDocumentMoniker": "PracticeModel\\DBcontext\\BaseContext.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\DBcontext\\BaseContext.cs",
+              "RelativeToolTip": "PracticeModel\\DBcontext\\BaseContext.cs",
+              "ViewState": "AgIAABQAAABgNDMzM7M3wBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\DTOs\\Response\\Response.cs",
+              "RelativeDocumentMoniker": "PracticeDomain\\DTOs\\Response\\Response.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\DTOs\\Response\\Response.cs",
+              "RelativeToolTip": "PracticeDomain\\DTOs\\Response\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Permissionseeder.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\SeedingModels\\Permissionseeder.cs",
+              "RelativeDocumentMoniker": "PracticeModel\\SeedingModels\\Permissionseeder.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\SeedingModels\\Permissionseeder.cs",
+              "RelativeToolTip": "PracticeModel\\SeedingModels\\Permissionseeder.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAEwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20251101063813_Initial.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\Migrations\\20251101063813_Initial.cs",
+              "RelativeDocumentMoniker": "PracticeModel\\Migrations\\20251101063813_Initial.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\Migrations\\20251101063813_Initial.cs",
+              "RelativeToolTip": "PracticeModel\\Migrations\\20251101063813_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:38:13.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251101063310_Intial.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\Migrations\\20251101063310_Intial.cs",
+              "RelativeDocumentMoniker": "PracticeModel\\Migrations\\20251101063310_Intial.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\Migrations\\20251101063310_Intial.cs",
+              "RelativeToolTip": "PracticeModel\\Migrations\\20251101063310_Intial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:33:12.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251101063414_Initial.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\Migrations\\20251101063414_Initial.cs",
+              "RelativeDocumentMoniker": "PracticeModel\\Migrations\\20251101063414_Initial.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\Migrations\\20251101063414_Initial.cs",
+              "RelativeToolTip": "PracticeModel\\Migrations\\20251101063414_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:34:15.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Practice\\appsettings.Development.json",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\appsettings.Development.json",
+              "RelativeToolTip": "Practice\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-01T06:26:43.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SeedService.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\SeedingModels\\SeedService.cs",
+              "RelativeDocumentMoniker": "PracticeModel\\SeedingModels\\SeedService.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\SeedingModels\\SeedService.cs",
+              "RelativeToolTip": "PracticeModel\\SeedingModels\\SeedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\DataModel\\Permission.cs",
+              "RelativeDocumentMoniker": "PracticeModel\\DataModel\\Permission.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\DataModel\\Permission.cs",
+              "RelativeToolTip": "PracticeModel\\DataModel\\Permission.cs",
+              "ViewState": "AQIAAAEAAAAAMzMzMzMbwAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAo5mZmRkSwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Medicines.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\DataModel\\Medicines.cs",
+              "RelativeDocumentMoniker": "PracticeModel\\DataModel\\Medicines.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\DataModel\\Medicines.cs",
+              "RelativeToolTip": "PracticeModel\\DataModel\\Medicines.cs",
+              "ViewState": "AQIAAAkAAADgMTMzMzMrwAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMedicineRepository.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\IRepository\\IMedicineRepository.cs",
+              "RelativeDocumentMoniker": "PracticeDomain\\IRepository\\IMedicineRepository.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\IRepository\\IMedicineRepository.cs",
+              "RelativeToolTip": "PracticeDomain\\IRepository\\IMedicineRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PracticeModel.csproj",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj",
+              "RelativeDocumentMoniker": "PracticeModel\\PracticeModel.csproj",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\PracticeModel.csproj",
+              "RelativeToolTip": "PracticeModel\\PracticeModel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-01T06:26:44.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "Practice\\Controllers\\SupplierController.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "Practice\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAABUAAADgMjMzMzM+wC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "PracticeDomain\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "PracticeDomain\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAABQAAAAANTMzMzMLwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\DataModel\\Supplier.cs",
+              "RelativeDocumentMoniker": "PracticeModel\\DataModel\\Supplier.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\DataModel\\Supplier.cs",
+              "RelativeToolTip": "PracticeModel\\DataModel\\Supplier.cs",
+              "ViewState": "AQIAAAsAAAAA////////vxAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ISupplierRepository.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\IRepository\\ISupplierRepository.cs",
+              "RelativeDocumentMoniker": "PracticeDomain\\IRepository\\ISupplierRepository.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\IRepository\\ISupplierRepository.cs",
+              "RelativeToolTip": "PracticeDomain\\IRepository\\ISupplierRepository.cs",
+              "ViewState": "AQIAAAEAAABAMzMzMzMbwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SupplierRequest.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\DTOs\\Supplier\\SupplierRequest.cs",
+              "RelativeDocumentMoniker": "PracticeDomain\\DTOs\\Supplier\\SupplierRequest.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\DTOs\\Supplier\\SupplierRequest.cs",
+              "RelativeToolTip": "PracticeDomain\\DTOs\\Supplier\\SupplierRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "PracticeDomain\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "PracticeDomain\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAACYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBaseEntity.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\BaseEntity\\IBaseEntity.cs",
+              "RelativeDocumentMoniker": "PracticeModel\\BaseEntity\\IBaseEntity.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\BaseEntity\\IBaseEntity.cs",
+              "RelativeToolTip": "PracticeModel\\BaseEntity\\IBaseEntity.cs",
+              "ViewState": "AQIAAAsAAADA//////8PwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\DataModel\\Categories.cs",
+              "RelativeDocumentMoniker": "PracticeModel\\DataModel\\Categories.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\DataModel\\Categories.cs",
+              "RelativeToolTip": "PracticeModel\\DataModel\\Categories.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Practice\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\Practice\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Practice\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "PracticeDomain\\IRepository\\IUserRepository.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "PracticeDomain\\IRepository\\IUserRepository.cs",
+              "ViewState": "AQIAAAgAAACAZmZmZmYkwA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthenticationModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\Models\\AuthenticationModel\\AuthenticationModel.cs",
+              "RelativeDocumentMoniker": "PracticeModel\\Models\\AuthenticationModel\\AuthenticationModel.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\Models\\AuthenticationModel\\AuthenticationModel.cs",
+              "RelativeToolTip": "PracticeModel\\Models\\AuthenticationModel\\AuthenticationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SeedModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\SeedingModels\\SeedModel.cs",
+              "RelativeDocumentMoniker": "PracticeModel\\SeedingModels\\SeedModel.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeModel\\SeedingModels\\SeedModel.cs",
+              "RelativeToolTip": "PracticeModel\\SeedingModels\\SeedModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthenticationModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\DTOs\\UserDto\\AuthenticationModel.cs",
+              "RelativeDocumentMoniker": "PracticeDomain\\DTOs\\UserDto\\AuthenticationModel.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\DTOs\\UserDto\\AuthenticationModel.cs",
+              "RelativeToolTip": "PracticeDomain\\DTOs\\UserDto\\AuthenticationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Jwt.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\DTOs\\JWT\\Jwt.cs",
+              "RelativeDocumentMoniker": "PracticeDomain\\DTOs\\JWT\\Jwt.cs",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\DTOs\\JWT\\Jwt.cs",
+              "RelativeToolTip": "PracticeDomain\\DTOs\\JWT\\Jwt.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAABUPQsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:44.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PracticeDomain.csproj",
+              "DocumentMoniker": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\PracticeDomain.csproj",
+              "RelativeDocumentMoniker": "PracticeDomain\\PracticeDomain.csproj",
+              "ToolTip": "D:\\Pharmacy Management System\\Practice .Net\\Practice\\PracticeDomain\\PracticeDomain.csproj",
+              "RelativeToolTip": "PracticeDomain\\PracticeDomain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-01T06:26:44.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

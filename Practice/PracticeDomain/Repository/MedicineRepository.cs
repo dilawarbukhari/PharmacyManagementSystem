@@ -109,14 +109,13 @@ namespace PracticeDomain.Repository
                 DynamicParameters parameters = new();
 
                 parameters.Add("@Name", request.Name );
-
                 parameters.Add ("@CategoryId" ,request.CategoryId);
                 parameters.Add("@SupplierId", request.SupplierId);
                 ////    parameters.Add("@PageNumber", user.PageNumber);
                 //  parameters.Add("@PageSize", user.PageSize);
 
 
-                var medicineList = await _dapperService.ReturnListAsync<MedicineResponseList>("GetMedicineDetails", parameters);
+                var medicineList = await _dapperService.ReturnListAsync<MedicineResponseList>("dbo.GetMedicineDetails", parameters);
                 if (medicineList == null || !medicineList.Any())
                 {
                 return new Response
