@@ -6,7 +6,7 @@ Developed using Angular, .NET Core, and SQL Server, the system demonstrates full
 
 ## 🧠 Backend
 ### ASP.NET Core (.NET 8)
-**N-Tier Architecture** for scalable and maintainable codebase
+**Clean Architecture** for scalable and maintainable codebase
 
 ## 🖥 Frontend
 
